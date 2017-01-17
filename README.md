@@ -1,2 +1,5 @@
 # OpenHT
-An open source head-tracker for VR
+An open source head tracker for VR
+
+
+THIS PROJECT IS WIP. SOURCE CODE AND SCHEMATICS WILL BE UPLOADED AS SOON AS POSSIBLE.
